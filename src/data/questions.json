@@ -1,0 +1,707 @@
+[
+  {
+    "question": "What is the primary purpose of Node.js in the MERN stack?",
+    "options": [
+      "Handling client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Server-side logic"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling the server-side routing and middleware functions?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the state and rendering UI components efficiently?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the main function of Express.js in the MERN stack?",
+    "options": [
+      "Handling client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Server-side logic"
+  },
+  {
+    "question": "Which part of the MERN stack is often referred to as the 'back end' and is responsible for server-side logic?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "What is the purpose of React in the MERN stack?",
+    "options": [
+      "Handling client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "User interface design"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for managing and interacting with the database?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "In the MERN stack, what is used as a NoSQL database for storing and retrieving data?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "What does Node.js primarily use to execute server-side JavaScript code?",
+    "options": ["V8 Engine", "Babel", "Webpack", "React Native"],
+    "answer": "V8 Engine"
+  },
+  {
+    "question": "In the context of the MERN stack, which technology is responsible for handling HTTP requests and responses?",
+    "options": ["Express.js", "React", "Node.js", "MongoDB"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "Which component of the MERN stack allows for creating reusable UI components?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What type of database is MongoDB in the MERN stack?",
+    "options": [
+      "Relational database",
+      "NoSQL database",
+      "In-memory database",
+      "Graph database"
+    ],
+    "answer": "NoSQL database"
+  },
+  {
+    "question": "In the MERN stack, what is used to manage JavaScript dependencies and modules?",
+    "options": ["Webpack", "Gulp", "Grunt", "NPM"],
+    "answer": "NPM"
+  },
+  {
+    "question": "Which part of the MERN stack is responsible for client-side routing?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "In the MERN stack, what is responsible for defining the structure and schema of the database?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "What is the role of Express.js in the MERN stack?",
+    "options": [
+      "Front-end development",
+      "Back-end development",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Back-end development"
+  },
+  {
+    "question": "Which technology in the MERN stack is responsible for building user interfaces?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What does MERN stand for?",
+    "options": [
+      "MongoDB, Express, React, Node",
+      "Modern, Elegant, Robust, Node",
+      "Manage, Extract, Render, Navigate",
+      "Mars Exploration and Research Network"
+    ],
+    "answer": "MongoDB, Express, React, Node"
+  },
+  {
+    "question": "Which part of the MERN stack is responsible for server-side rendering of web pages?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "In the context of MERN, what is a 'component'?",
+    "options": [
+      "A server-side routing function",
+      "A reusable user interface element",
+      "A NoSQL database table",
+      "A client-side JavaScript library"
+    ],
+    "answer": "A reusable user interface element"
+  },
+  {
+    "question": "Which technology in the MERN stack allows for the use of JSX (JavaScript XML) syntax?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What type of programming language is JavaScript in the context of the MERN stack?",
+    "options": [
+      "Compiled language",
+      "Interpreted language",
+      "Assembly language",
+      "Markup language"
+    ],
+    "answer": "Interpreted language"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling HTTP requests from the client?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the project's front-end dependencies?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the purpose of Babel in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "In the MERN stack, which component allows for the creation of RESTful APIs?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "What does MongoDB use as its primary data storage format?",
+    "options": ["JSON", "XML", "Binary", "CSV"],
+    "answer": "JSON"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling client-side routing?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the server and handling network requests?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "What is the role of Webpack in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "Which technology is often used for real-time communication in the MERN stack?",
+    "options": ["MongoDB", "Express.js", "React", "Socket.io"],
+    "answer": "Socket.io"
+  },
+  {
+    "question": "What is the primary advantage of using a NoSQL database like MongoDB in the MERN stack?",
+    "options": [
+      "Strict schema enforcement",
+      "ACID compliance",
+      "Scalability and flexibility",
+      "Server-side rendering"
+    ],
+    "answer": "Scalability and flexibility"
+  },
+  {
+    "question": "In the MERN stack, which component is responsible for rendering UI components on the client side?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary use of the 'npm start' command in a MERN project?",
+    "options": [
+      "Start the development server",
+      "Compile React components",
+      "Deploy the application",
+      "Optimize database queries"
+    ],
+    "answer": "Start the development server"
+  },
+  {
+    "question": "In the MERN stack, what is responsible for handling the user interface and user interactions?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "Which technology in the MERN stack is often used for handling authentication and authorization?",
+    "options": ["MongoDB", "Express.js", "React", "Passport.js"],
+    "answer": "Passport.js"
+  },
+  {
+    "question": "What is the primary function of MongoDB in the MERN stack?",
+    "options": [
+      "Client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Database management"
+  },
+  {
+    "question": "In the context of the MERN stack, what is JSX?",
+    "options": [
+      "A server-side routing function",
+      "A database management tool",
+      "A JavaScript extension for building UI",
+      "A client-side JavaScript library"
+    ],
+    "answer": "A JavaScript extension for building UI"
+  },
+  {
+    "question": "Which part of the MERN stack is responsible for handling the presentation and user interface?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary role of Express.js in the MERN stack?",
+    "options": [
+      "Client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Server-side logic"
+  },
+  {
+    "question": "In the MERN stack, what is used to manage packages and dependencies for a project?",
+    "options": ["Webpack", "NPM", "Babel", "Gulp"],
+    "answer": "NPM"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for managing data flow within the application?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary function of Node.js in the MERN stack?",
+    "options": [
+      "Handling client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Server-side logic"
+  },
+  {
+    "question": "In the MERN stack, what is used for defining the structure of data models?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "What is the role of React in the MERN stack?",
+    "options": [
+      "Handling client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "User interface design"
+  },
+  {
+    "question": "Which part of the MERN stack is responsible for managing and querying the database?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for building user interfaces?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary role of Express.js in the MERN stack?",
+    "options": [
+      "Handling client-side routing",
+      "Server-side logic",
+      "Database management",
+      "User interface design"
+    ],
+    "answer": "Server-side logic"
+  },
+  {
+    "question": "In the MERN stack, what is used to bundle and optimize JavaScript code for production?",
+    "options": ["MongoDB", "Express.js", "React", "Webpack"],
+    "answer": "Webpack"
+  },
+  {
+    "question": "Which technology in the MERN stack is responsible for managing the server and handling network requests?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "What is the primary advantage of using React in the MERN stack for building user interfaces?",
+    "options": [
+      "Server-side rendering",
+      "Component reusability",
+      "NoSQL database support",
+      "Client-side routing"
+    ],
+    "answer": "Component reusability"
+  },
+  {
+    "question": "In the context of MERN, what is a 'component'?",
+    "options": [
+      "A server-side routing function",
+      "A reusable user interface element",
+      "A NoSQL database table",
+      "A client-side JavaScript library"
+    ],
+    "answer": "A reusable user interface element"
+  },
+  {
+    "question": "Which technology in the MERN stack allows for the use of JSX (JavaScript XML) syntax?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What type of programming language is JavaScript in the context of the MERN stack?",
+    "options": [
+      "Compiled language",
+      "Interpreted language",
+      "Assembly language",
+      "Markup language"
+    ],
+    "answer": "Interpreted language"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling HTTP requests from the client?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the project's front-end dependencies?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the purpose of Babel in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "In the MERN stack, which component allows for the creation of RESTful APIs?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "What does MongoDB use as its primary data storage format?",
+    "options": ["JSON", "XML", "Binary", "CSV"],
+    "answer": "JSON"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling client-side routing?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the server and handling network requests?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "What is the role of Webpack in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "Which technology is often used for real-time communication in the MERN stack?",
+    "options": ["MongoDB", "Express.js", "React", "Socket.io"],
+    "answer": "Socket.io"
+  },
+  {
+    "question": "What is the primary advantage of using a NoSQL database like MongoDB in the MERN stack?",
+    "options": [
+      "Strict schema enforcement",
+      "ACID compliance",
+      "Scalability and flexibility",
+      "Server-side rendering"
+    ],
+    "answer": "Scalability and flexibility"
+  },
+  {
+    "question": "In the MERN stack, which component is responsible for rendering UI components on the client side?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary use of the 'npm start' command in a MERN project?",
+    "options": [
+      "Start the development server",
+      "Compile React components",
+      "Deploy the application",
+      "Optimize database queries"
+    ],
+    "answer": "Start the development server"
+  },
+  {
+    "question": "In the MERN stack, what is responsible for handling the user interface and user interactions?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "Which technology in the MERN stack allows for the use of JSX (JavaScript XML) syntax?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What type of programming language is JavaScript in the context of the MERN stack?",
+    "options": [
+      "Compiled language",
+      "Interpreted language",
+      "Assembly language",
+      "Markup language"
+    ],
+    "answer": "Interpreted language"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling HTTP requests from the client?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the project's front-end dependencies?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the purpose of Babel in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "In the MERN stack, which component allows for the creation of RESTful APIs?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "What does MongoDB use as its primary data storage format?",
+    "options": ["JSON", "XML", "Binary", "CSV"],
+    "answer": "JSON"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling client-side routing?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the server and handling network requests?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "What is the role of Webpack in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "Which technology is often used for real-time communication in the MERN stack?",
+    "options": ["MongoDB", "Express.js", "React", "Socket.io"],
+    "answer": "Socket.io"
+  },
+  {
+    "question": "What is the primary advantage of using a NoSQL database like MongoDB in the MERN stack?",
+    "options": [
+      "Strict schema enforcement",
+      "ACID compliance",
+      "Scalability and flexibility",
+      "Server-side rendering"
+    ],
+    "answer": "Scalability and flexibility"
+  },
+  {
+    "question": "In the MERN stack, which component is responsible for rendering UI components on the client side?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary use of the 'npm start' command in a MERN project?",
+    "options": [
+      "Start the development server",
+      "Compile React components",
+      "Deploy the application",
+      "Optimize database queries"
+    ],
+    "answer": "Start the development server"
+  },
+  {
+    "question": "In the MERN stack, what is responsible for handling the user interface and user interactions?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "Which technology in the MERN stack allows for the use of JSX (JavaScript XML) syntax?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What type of programming language is JavaScript in the context of the MERN stack?",
+    "options": [
+      "Compiled language",
+      "Interpreted language",
+      "Assembly language",
+      "Markup language"
+    ],
+    "answer": "Interpreted language"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling HTTP requests from the client?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the project's front-end dependencies?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the purpose of Babel in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "In the MERN stack, which component allows for the creation of RESTful APIs?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "What does MongoDB use as its primary data storage format?",
+    "options": ["JSON", "XML", "Binary", "CSV"],
+    "answer": "JSON"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling client-side routing?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the server and handling network requests?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Node.js"
+  },
+  {
+    "question": "What is the role of Webpack in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "Which technology is often used for real-time communication in the MERN stack?",
+    "options": ["MongoDB", "Express.js", "React", "Socket.io"],
+    "answer": "Socket.io"
+  },
+  {
+    "question": "What is the primary advantage of using a NoSQL database like MongoDB in the MERN stack?",
+    "options": [
+      "Strict schema enforcement",
+      "ACID compliance",
+      "Scalability and flexibility",
+      "Server-side rendering"
+    ],
+    "answer": "Scalability and flexibility"
+  },
+  {
+    "question": "In the MERN stack, which component is responsible for rendering UI components on the client side?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the primary use of the 'npm start' command in a MERN project?",
+    "options": [
+      "Start the development server",
+      "Compile React components",
+      "Deploy the application",
+      "Optimize database queries"
+    ],
+    "answer": "Start the development server"
+  },
+  {
+    "question": "In the MERN stack, what is responsible for handling the user interface and user interactions?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "Which technology in the MERN stack allows for the use of JSX (JavaScript XML) syntax?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What type of programming language is JavaScript in the context of the MERN stack?",
+    "options": [
+      "Compiled language",
+      "Interpreted language",
+      "Assembly language",
+      "Markup language"
+    ],
+    "answer": "Interpreted language"
+  },
+  {
+    "question": "Which component of the MERN stack is responsible for handling HTTP requests from the client?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "In the MERN stack, which technology is responsible for managing the project's front-end dependencies?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "React"
+  },
+  {
+    "question": "What is the purpose of Babel in the MERN stack?",
+    "options": [
+      "Database management",
+      "Transpiling JavaScript code",
+      "Client-side routing",
+      "User interface design"
+    ],
+    "answer": "Transpiling JavaScript code"
+  },
+  {
+    "question": "In the MERN stack, which component allows for the creation of RESTful APIs?",
+    "options": ["MongoDB", "Express.js", "React", "Node.js"],
+    "answer": "Express.js"
+  },
+  {
+    "question": "What does MongoDB use as its primary data storage format?",
+    "options": ["JSON", "XML", "Binary", "CSV"],
+    "answer": "JSON"
+  }
+]

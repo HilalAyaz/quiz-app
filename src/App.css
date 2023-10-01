@@ -1,0 +1,88 @@
+/* App.css */
+body{
+    background: #000;
+}
+.quiz-container {
+    max-width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .quiz-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .quiz-header h1 {
+    font-size: 28px;
+    color: #333;
+  }
+  
+  .quiz-body h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    padding: 0;
+  }
+  
+  .list-group-item label {
+    margin-left: 10px;
+    color: #333;
+  }
+  
+  .btn {
+    margin-top: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .btn.nxt-btn {
+    margin-right: 10px;
+  }
+  
+  .quiz-body p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .quiz-body button.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }
+  
+  .quiz-body button.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .no-select {
+    user-select: none;
+  }
+  .gif-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Adjust the height to your preference */
+  }
+  
+  .gif {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    margin: auto;
+  }
